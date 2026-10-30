@@ -1,0 +1,6 @@
+{
+  "stale_days": 90,
+  "unused_privilege_days": 60,
+  "off_hours_min_events": 3,
+  "brute_force_failed_threshold": 5
+}
